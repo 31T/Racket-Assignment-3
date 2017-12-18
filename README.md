@@ -1,3 +1,3 @@
-# Racket-Assignment-3
+# Racket-Structures
 
 Structures in Racket
